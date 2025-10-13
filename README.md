@@ -1,6 +1,6 @@
 <!-- Profil README by szvmczek -->
 
-# 👋 Yo, jestem Szymon (aka **szvmczek**)
+# 👋 Yo, jestem Szymon (aka **szvmczekk**)
 
 💻 16-letni typ, który zakochał się w **programowaniu**.  
 🔥 Piszę w **Javie**, dłubię w **HTML / CSS / JS**, ogarniam **MySQL** i powoli buduję własny stack.  
@@ -28,8 +28,8 @@
 ---
 
 ### 📈 Statystyki GitHub
-![szvmczek's GitHub stats](https://github-readme-stats.vercel.app/api?username=szvmczek&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szvmczek&layout=compact&theme=tokyonight)
+![szvmczekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=szvmczekk&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szvmczekk&layout=compact&theme=tokyonight)
 
 ---
 
@@ -39,4 +39,4 @@
 ---
 
 > _“Nie chcę być najlepszy na świecie — chcę być lepszy niż wczoraj.”_  
-> — **szvmczek**
+> — **szvmczekk**
