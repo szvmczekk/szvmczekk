@@ -1,8 +1,4 @@
-# 👋 Cześć, jestem Szymon Lebensztejn
-
-Jestem początkującym programistą, skupionym głównie na **backendzie w Javie** i tworzeniu **aplikacji webowych**.  
-Cenię prostotę, przejrzysty kod i projekty, które faktycznie rozwiązują problemy.  
-Aktualnie rozwijam się poprzez naukę web developmentu i pracę nad własnymi projektami.
+# 🐳 Elo ni
 
 ---
 
