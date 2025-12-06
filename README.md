@@ -1,8 +1,8 @@
-# :trollface: Wsup
+# Hello!
 ---
 
 ### ⚙️ Technologies i work with
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,mysql,idea,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,mysql,idea&theme=dark)](https://skillicons.dev)
 
 ---
 
