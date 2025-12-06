@@ -1,5 +1,4 @@
 # :trollface: Wsup
-
 ---
 
 ### ⚙️ Technologies i work with
@@ -12,15 +11,5 @@
 
 ---
 
-### 📊 Statystyki GitHub
-![szvmczekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=szvmczekk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szvmczekk&layout=compact&theme=tokyonight)
-
----
-
 ### 📬 Hit me on
 📧 **szymon.lebensztejn.essa@gmail.com**
-
----
-
-> *„Najlepszy kod to ten, który jest prosty, zrozumiały i działa.”*
